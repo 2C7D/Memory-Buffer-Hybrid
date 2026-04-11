@@ -1,4 +1,4 @@
-# Memory Buffer
+# Memory Buffer Hybrid
 
 **Write first. Organize later. Or never.**
 
